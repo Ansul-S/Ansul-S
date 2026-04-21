@@ -42,5 +42,5 @@ Python | FastAPI | Pandas | NumPy | PyTorch | Git
 
 ## Connect
 
-- LinkedIn: [Ansul Suryawanshi]([your-linkedin-url](https://www.linkedin.com/in/ansul-suryawanshi-a365ab15a/))
+- LinkedIn: [Ansul Suryawanshi](https://www.linkedin.com/in/ansul-suryawanshi-a365ab15a/)
 - Email: ansul2612@gmail.com
