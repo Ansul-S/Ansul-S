@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Ansul Suryawanshi 👋
 
-<!--
-**Ansul-S/Ansul-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied AI / ML Engineer Aspirant | Building AI Systems | Preparing for Applied AI Roles
 
-Here are some ideas to get you started:
+## About Me
+- BSc graduate transitioning into AI/ML
+- Currently pursuing AI/ML program from IIT Guwahati
+- Building projects in:
+  - RAG Systems
+  - MLOps
+  - Applied ML
+  - AI Agents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### MLOpsEnv
+RL environment for agent evaluation.
+
+### ReliefAI
+Multi-agent orchestration system.
+
+### UIDAI Hackathon Project
+Analyzed 6.9M transactions for youth inclusion insights.
+
+### Reliable-RAG-Lab (In Progress)
+Building evaluated RAG system.
+
+## Currently Learning
+- Python
+- DSA
+- Vector Databases
+- RAG
+- LLM Evaluation
+
+## Tech Stack
+Python | FastAPI | Pandas | NumPy | PyTorch | Git
+
+## Goals for 2026
+- Land Applied AI Engineer role
+- Build flagship RAG project
+- Strengthen systems engineering skills
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/ansul-suryawanshi-a365ab15a/
+Email: ansul2612@gmail.com
