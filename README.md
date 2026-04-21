@@ -41,5 +41,6 @@ Python | FastAPI | Pandas | NumPy | PyTorch | Git
 - Strengthen systems engineering skills
 
 ## Connect
-LinkedIn: https://www.linkedin.com/in/ansul-suryawanshi-a365ab15a/
-Email: ansul2612@gmail.com
+
+- LinkedIn: [Ansul Suryawanshi]([your-linkedin-url](https://www.linkedin.com/in/ansul-suryawanshi-a365ab15a/))
+- Email: ansul2612@gmail.com
