@@ -1,6 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,45:7AA2F7,100:BB9AF7&height=200&section=header&text=Ansul%20Suryawanshi&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Applied%20AI%2FML%20Engineer&descAlignY=54&descSize=18" width="100%" alt="Ansul Suryawanshi — Applied AI/ML Engineer" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=7AA2F7&center=true&vCenter=true&width=680&height=45&lines=Hi%2C+I'm+Ansul+Suryawanshi;Applied+AI%2FML+Engineer;LLMs+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+Systems;Open+to+2026+Full-Time+Roles" alt="Applied AI/ML Engineer — LLMs, RAG, Multi-Agent Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=680&height=45&lines=LLMs+%E2%80%A2+RAG+%E2%80%A2+Multi-Agent+Systems;Grounded+retrieval%2C+measured+with+real+evals;Open+to+2026+Full-Time+Roles" alt="LLMs, RAG, Multi-Agent Systems" />
 
 <br/>
 
@@ -33,56 +35,19 @@ I build **AI systems that are grounded, measured, and shipped** — not just not
 
 ## Tech Stack
 
-**Languages**
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,ts,js,pytorch,sklearn,fastapi,react,vite,tailwind,sqlite,docker,gcp,git,githubactions&perline=7" alt="Python, TypeScript, JavaScript, PyTorch, scikit-learn, FastAPI, React, Vite, Tailwind, SQLite, Docker, Google Cloud, Git, GitHub Actions" />
 
-**AI / ML & LLM**
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
-<img src="https://img.shields.io/badge/ChromaDB-4B32C3?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=lightning&logoColor=white" alt="Groq" />
-<img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white" alt="XGBoost" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-</p>
+<br/>
 
-**Backend & Frontend**
+**LLM & retrieval**  ·  Hugging Face Transformers · sentence-transformers · ChromaDB · BM25 + RRF · Ollama · Groq · MCP · spaCy
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
+**Data & modelling**  ·  NumPy · pandas · XGBoost · SMOTE
 
-**Infra & Tooling**
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Run" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white" alt="uv" />
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
-<img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" alt="Ruff" />
-<img src="https://img.shields.io/badge/mypy-2A6DB2?style=for-the-badge&logo=python&logoColor=white" alt="mypy" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+**Engineering**  ·  Pydantic · SQLAlchemy · uv · pytest · Ruff · mypy · pre-commit
 
 <br/>
 
@@ -103,8 +68,12 @@ I build **AI systems that are grounded, measured, and shipped** — not just not
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ansul-S&show_icons=true&include_all_commits=true&count_private=true&hide=stars&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6" alt="Ansul's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansul-S&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=A9B1D6" alt="Top languages" />
+<img width="72%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansul-S&theme=tokyonight" alt="GitHub profile summary — contributions over time" />
+
+<br/>
+
+<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansul-S&theme=tokyonight" alt="Top languages by repository" />
+<img width="39%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansul-S&theme=tokyonight" alt="Top languages by commit" />
 
 </div>
 
@@ -135,3 +104,5 @@ I'm looking for **Applied AI / ML Engineer** opportunities — if you're hiring 
 </a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,55:7AA2F7,100:1A1B26&height=120&section=footer" width="100%" alt="" />
