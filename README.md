@@ -45,7 +45,7 @@ I build **AI systems that are grounded, measured, and shipped** — not just not
 
 **LLM & retrieval**  ·  Hugging Face Transformers · sentence-transformers · ChromaDB · BM25 + RRF · Ollama · Groq · MCP · spaCy
 
-**Data & modelling**  ·  NumPy · pandas · XGBoost · SMOTE
+**Data & analysis**  ·  NumPy · pandas · Matplotlib · Seaborn
 
 **Engineering**  ·  Pydantic · SQLAlchemy · uv · pytest · Ruff · mypy · pre-commit
 
